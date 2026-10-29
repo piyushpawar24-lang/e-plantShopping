@@ -1,4 +1,4 @@
-# Paradise Nursery
+# e-plantShopping
 
 ## Project Name
 Paradise Nursery — Online Plant Shopping Application
